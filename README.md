@@ -30,6 +30,7 @@ guess game.py
 
 
 📂 Level 2 - Intermediate
+<hr>
 
 1. To-Do List Application
 Add, delete, mark as done, and list tasks.
@@ -53,6 +54,7 @@ Displays results in user-friendly format.
 
 
 📂 Level 3 - Advanced
+<hr>
 1. File Encryption/Decryption
 Encrypts and decrypts text files.
 Requires a text file (e.g., `sample.txt`) in the same folder as the script.
