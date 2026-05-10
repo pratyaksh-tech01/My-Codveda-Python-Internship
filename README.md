@@ -11,11 +11,10 @@ Each section includes a description and instructions to run the program in VS Co
 ### 1. Simple Calculator
 - Performs addition, subtraction, multiplication, and division.
 - Handles division by zero with error messages.
-
-**Run in VS Code:**
-```bash
+  
+**Run in VS code : **
+'''bash
 calculator.py
-
 
 ###2. Number Guessing Game
 Randomly generates a number between 1–100.
